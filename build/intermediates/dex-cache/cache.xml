@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\AMap3DDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85e08d36d1c16556286543359c3760adae54c25">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6f4ad88cb31c53cd00978710d5d00c95a4a81aa3\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\libs\AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V2.4.1_20160414_0e201f641ccf10205175f8f85ce32ccf35c250f0\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_3c6a010afb99cdc46aaaf8ae44c17c43b8f3ca1f\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\libs\AMap_Search_V3.4.0_20160811.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="298b0f77ab9b3d6aebae2eef0805e322a947fb4e">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V3.4.0_20160811_0045680e9445034af90fecdd7967839676a1ab08\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b4601d78d0092a93199f1fb911b7f798630cd928">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e530b41659e12f2262c975971a06e3aad334bbcf\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\libs\AMap_3DMap_V3.4.0_20160809.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="161604bfeb8f1337cca98f8737773ee02ef75f65">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_3DMap_V3.4.0_20160809_32b08777a45d7d78bc3158b2075f151588fbc0e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\AMap3DDemo\app\libs\Volley.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\workspace\AMap3DDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_4214c593d0e88fbf8b257ad2605d111393b660d6\classes.dex" />
+    </item>
+
+</items>
